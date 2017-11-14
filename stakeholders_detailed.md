@@ -15,8 +15,7 @@ Shem Ogumbe: Based in Nairobi, Kenya
 
 ### Technical Team Lead
 * __Njira Percila__: Based in Nairobi, Kenya.
->A long  time contributor to the Balrog pro-
-ject among many other projects in Mozilla
+>A long  time contributor to the Balrog project among many other projects in Mozilla
 
 
 ### Andela Developers in Balrog team
